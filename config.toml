@@ -1,0 +1,18 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Kellyn Loehr"
+
+
+[Params]
+  Subtitle = "Spinning the cogs in the widgets"
+  AuthorName = "Fredrik"
+  github = "Senjindarashiva"
+  bitbucket = "floch"
+  flickr = "senjin"
+  twitter = "kellynloehr"
+  email = "fredrik.loch@outlook.com"
+  description = ""
+  cv = "/pages/cv"
+  linkedin = "fredrikloch"
+  cover = "/images/kellynloehr.png"
+  logo = "/img/logo-1.jpg"
